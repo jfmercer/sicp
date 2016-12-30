@@ -1,3 +1,5 @@
+## Scheme
+
 *.ss~
 *.ss#*
 .#*.ss
@@ -5,3 +7,10 @@
 *.scm~
 *.scm#*
 .#*.scm
+
+## Common LISP
+
+*.FASL
+*.fasl
+*.lisp-temp
+
